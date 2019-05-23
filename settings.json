@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Colonoscopy",
+    "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+    "editor.folding": false,
+    "editor.renderIndentGuides": false,
+    "editor.highlightActiveIndentGuide": false,
+    "editor.detectIndentation": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false
+}
