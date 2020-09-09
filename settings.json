@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Fira Code', Hack, Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code','FiraCode', Hack, Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "workbench.colorTheme": "Nord",
